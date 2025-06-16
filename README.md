@@ -14,10 +14,3 @@ A lightweight Python utility to add custom gray-footers (e.g. watermark or copyr
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 - [ReportLab](https://pypi.org/project/reportlab/)
 
-Install with:
-
-```bash
-pip install PyPDF2 reportlab
-```
-
-
