@@ -1,6 +1,3 @@
-# Watermark-to-PDF
-
-
 # PDF Footer Adder
 
 A lightweight Python utility to add custom gray-footers (e.g. watermark or copyright notice) to every page of a PDF, using [PyPDF2](https://pypi.org/project/PyPDF2/) and [ReportLab](https://pypi.org/project/reportlab/).
